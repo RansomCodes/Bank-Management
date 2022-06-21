@@ -1,2 +1,2 @@
 # Bank-Management
-Database Project
+Database Management Project
